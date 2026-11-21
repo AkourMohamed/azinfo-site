@@ -7,4 +7,4 @@ with or endorsed by Microsoft.
 - [Privacy policy](privacy-policy.html)
 - [For administrators: approving azinfo in your organisation](admin-consent.html)
 
-Questions or problems: [open an issue](https://github.com/AkourMohamed/azinfo-site/issues).
+Questions or problems: [open an issue](https://github.com/meedruoka/azinfo-site/issues).
